@@ -229,1090 +229,1539 @@ if (utropstäcken = true)
 {
     Utropstäcken = "!";
 }
-Console.WriteLine("Type hello world");   
-string svar = Console.ReadLine();
+Console.WriteLine("Type hello world");
+string svar = Console.ReadLine().ToLower();
+while (svar != "hello world")
+{
+    if(int.TryParse(svar, out int nummer))
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine(); 
+    }
+    if (svar == "")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "a")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "b")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "c")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "d")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "e")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "f")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "g")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "h")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "i")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "j")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "k")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "l")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "m")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "n")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "o")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "p")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "q")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "r")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "s")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "t"| svar == "T")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "u")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "v")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "w")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "x")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "y")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "z")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "å")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "ä")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "ö")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "aa")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "ab")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "ac")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "ad")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "ae")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "af")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "ag")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "ah")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "ai")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "aj")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "ak")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "al")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "am")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "an")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "ao")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "ap")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "aq")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "ar")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "as")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "at")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "au")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "av")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "aw")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "ax")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "ay")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "az")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "aå")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "aä")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "aö")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "ba")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bb")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bc")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bd")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "be")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bf")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bg")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bh")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bi")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bj")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bk")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bl")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bm")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bn")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bo")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bp")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bq")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "br")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bs")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bt")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bu")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bv")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bw")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bx")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "by")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bz")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bå")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bä")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+    if (svar == "bö")
+    {
+        Console.WriteLine("type hello world");
+        svar = Console.ReadLine();
+    }
+   
+    if (svar != "hello world"){ Console.WriteLine("Not invented a thing for yet try again"); svar = Console.ReadLine(); }
+}
 while (svar == "hello world")
 {
-    
 
-Console.WriteLine($"{A1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{B1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{C1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{D1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{E1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{F1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{G1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{A1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{B1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{C1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{D1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{A1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{B1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{C1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{D1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{E1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{F1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{G1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{H1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{I1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{J1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{K1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{A1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{B1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{C1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{D1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{E1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{F1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{G1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{H1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{I1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{J1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{K1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{A1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{B1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{C1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{D1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{E1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{F1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{G1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{H1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{I1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{J1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{K1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{L1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{M1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{N1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{A1}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{B1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{C1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{D1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{E1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{F1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{G1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{H1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{I1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{J1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{K1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{L1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{M1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{N1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{O1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{P1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Q1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{R1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{S1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{T1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{U1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{V1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{W1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{X1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Y1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Z1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Å1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Ä1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Ö1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{A1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{B1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{C1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{D1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{E1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{F1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{G1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{H1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{I1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{J1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{K1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{L1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{M1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{N1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{O1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{P1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{Q1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{R1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{S1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{T1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{U1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{V1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{A1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{B1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{C1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{D1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{E1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{F1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{G1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{H1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{I1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{J1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{K1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{L1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{M1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{N1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{A1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{B1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{C1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{D1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{E1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{F1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{G1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{H1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{I1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{J1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{K1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{L1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{M1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{N1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{O1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{P1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{Q1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{A1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{B1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{C1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{D1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{E1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{F1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{G1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{H1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{I1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{J1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{K1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{A1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{B1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{C1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{A1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{B1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{C1}");Thread.Sleep(25);
+    Console.WriteLine($"{A1}");
+    Thread.Sleep(25);
     Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{D1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{E1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{F1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{G1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{H1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{I1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{J1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{K1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{L1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{M1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{N1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{O1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{P1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Q1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{R1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{S1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{T1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{U1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{V1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{W1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{X1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Y1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Z1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Å1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Ä1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Ö1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{A1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{B1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{C1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{D1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{E1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{F1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{G1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{H1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{I1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{J1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{K1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{L1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{M1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{N1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{O1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{P1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Q1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{R1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{S1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{T1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{U1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{V1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{W1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{X1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Y1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Z1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Å1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Ä1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Ö1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}");Thread.Sleep(25);
+    Console.WriteLine($"{B1}");
+    Thread.Sleep(25);
     Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{A1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{B1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{C1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{D1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{E1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{F1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{G1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{H1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{I1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{J1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{K1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{L1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{M1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{N1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{O1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{P1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{Q1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{R1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{S1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{T1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{U1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{V1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{W1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{X1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{Y1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{Z1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{Å1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{Ä1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{Ö1}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{Utropstäcken}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{A}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{B}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{C}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{D}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{E}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{F}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{G}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{A}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{B}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{C}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{D}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{A}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{B}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{C}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{D}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{E}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{F}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{G}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{H}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{I}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{J}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{K}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{A}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{B}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{C}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{D}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{E}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{F}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{G}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{H}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{I}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{J}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{K}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{A}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{B}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{C}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{D}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{E}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{F}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{G}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{H}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{I}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{J}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{K}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{L}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{M}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{N}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{A}");
-Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{B}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{C}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{D}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{E}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{F}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{G}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{H}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{I}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{J}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{K}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{L}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{M}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{N}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{O}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{P}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Q}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{R}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{S}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{T}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{U}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{V}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{W}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{X}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Y}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Z}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Å}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Ä}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Ö}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{A}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{B}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{C}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{D}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{E}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{F}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{G}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{H}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{I}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{J}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{K}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{L}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{M}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{N}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{O}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{P}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{Q}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{R}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{S}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{T}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{U}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{V}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{A}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{B}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{C}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{D}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{E}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{F}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{G}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{H}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{I}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{J}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{K}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{L}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{M}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{N}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{A}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{B}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{C}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{D}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{E}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{F}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{G}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{H}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{I}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{J}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{K}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{L}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{M}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{N}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{O}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{P}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{Q}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{A}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{B}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{C}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{D}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{E}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{F}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{G}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{H}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{I}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{J}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{K}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{A}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{B}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{C}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{A}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{B}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{C}");Thread.Sleep(25);
+    Console.WriteLine($"{C1}");
+    Thread.Sleep(25);
     Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{D}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{E}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{F}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{G}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{H}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{I}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{J}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{K}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{L}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{M}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{N}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{O}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{P}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Q}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{R}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{S}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{T}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{U}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{V}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{W}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{X}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Y}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Z}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Å}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Ä}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Ö}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{A}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{B}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{C}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{D}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{E}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{F}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{G}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{H}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{I}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{J}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{K}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{L}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{M}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{N}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{O}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{P}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Q}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{R}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{S}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{T}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{U}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{V}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{W}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{X}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Y}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Z}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Å}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Ä}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Ö}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}");Thread.Sleep(25);
+    Console.WriteLine($"{D1}");
+    Thread.Sleep(25);
     Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{A}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{B}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{C}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{D}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{E}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{F}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{G}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{H}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{I}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{J}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{K}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{L}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{M}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{N}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{O}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{P}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{Q}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{R}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{S}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{T}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{U}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{V}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{W}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{X}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{Y}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{Z}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{Å}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{Ä}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{Ö}");Thread.Sleep(25);
-Console.Clear();
-Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{Utropstäcken}");Thread.Sleep(25);
-Console.Clear();
+    Console.WriteLine($"{E1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{F1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{G1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{A1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{B1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{C1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{D1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{A1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{B1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{C1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{D1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{E1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{F1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{G1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{H1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{I1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{J1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{K1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{A1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{B1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{C1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{D1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{E1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{F1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{G1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{H1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{I1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{J1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{K1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{A1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{B1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{C1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{D1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{E1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{F1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{G1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{H1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{I1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{J1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{K1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{L1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{M1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{N1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{A1}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{B1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{C1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{D1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{E1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{F1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{G1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{H1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{I1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{J1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{K1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{L1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{M1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{N1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{O1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{P1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Q1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{R1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{S1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{T1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{U1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{V1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{W1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{X1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Y1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Z1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Å1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Ä1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Ö1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{A1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{B1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{C1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{D1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{E1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{F1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{G1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{H1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{I1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{J1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{K1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{L1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{M1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{N1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{O1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{P1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{Q1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{R1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{S1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{T1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{U1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{V1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{A1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{B1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{C1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{D1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{E1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{F1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{G1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{H1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{I1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{J1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{K1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{L1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{M1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{N1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{A1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{B1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{C1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{D1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{E1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{F1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{G1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{H1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{I1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{J1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{K1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{L1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{M1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{N1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{O1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{P1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{Q1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{A1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{B1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{C1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{D1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{E1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{F1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{G1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{H1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{I1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{J1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{K1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{A1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{B1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{C1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{A1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{B1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{C1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{D1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{E1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{F1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{G1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{H1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{I1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{J1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{K1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{L1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{M1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{N1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{O1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{P1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Q1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{R1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{S1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{T1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{U1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{V1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{W1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{X1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Y1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Z1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Å1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Ä1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Ö1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{A1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{B1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{C1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{D1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{E1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{F1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{G1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{H1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{I1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{J1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{K1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{L1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{M1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{N1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{O1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{P1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Q1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{R1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{S1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{T1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{U1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{V1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{W1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{X1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Y1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Z1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Å1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Ä1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Ö1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{A1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{B1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{C1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{D1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{E1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{F1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{G1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{H1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{I1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{J1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{K1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{L1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{M1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{N1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{O1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{P1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{Q1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{R1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{S1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{T1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{U1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{V1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{W1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{X1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{Y1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{Z1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{Å1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{Ä1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{Ö1}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H1}{E1}{L1}{L1}{O1}{Mellanrum}{W1}{O1}{R1}{L1}{D1}{Utropstäcken}{Utropstäcken}{Utropstäcken}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{A}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{B}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{C}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{D}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{E}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{F}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{G}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{A}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{B}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{C}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{D}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{A}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{B}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{C}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{D}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{E}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{F}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{G}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{H}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{I}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{J}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{K}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{A}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{B}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{C}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{D}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{E}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{F}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{G}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{H}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{I}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{J}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{K}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{A}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{B}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{C}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{D}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{E}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{F}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{G}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{H}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{I}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{J}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{K}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{L}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{M}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{N}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{A}");
+    Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{B}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{C}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{D}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{E}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{F}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{G}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{H}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{I}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{J}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{K}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{L}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{M}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{N}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{O}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{P}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Q}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{R}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{S}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{T}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{U}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{V}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{W}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{X}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Y}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Z}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Å}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Ä}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Ö}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{A}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{B}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{C}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{D}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{E}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{F}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{G}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{H}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{I}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{J}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{K}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{L}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{M}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{N}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{O}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{P}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{Q}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{R}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{S}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{T}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{U}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{V}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{A}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{B}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{C}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{D}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{E}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{F}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{G}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{H}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{I}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{J}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{K}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{L}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{M}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{N}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{A}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{B}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{C}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{D}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{E}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{F}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{G}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{H}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{I}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{J}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{K}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{L}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{M}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{N}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{O}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{P}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{Q}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{A}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{B}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{C}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{D}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{E}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{F}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{G}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{H}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{I}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{J}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{K}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{A}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{B}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{C}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{A}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{B}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{C}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{D}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{E}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{F}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{G}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{H}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{I}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{J}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{K}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{L}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{M}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{N}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{O}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{P}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Q}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{R}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{S}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{T}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{U}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{V}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{W}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{X}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Y}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Z}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Å}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Ä}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Ö}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{A}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{B}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{C}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{D}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{E}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{F}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{G}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{H}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{I}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{J}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{K}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{L}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{M}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{N}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{O}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{P}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Q}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{R}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{S}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{T}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{U}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{V}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{W}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{X}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Y}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Z}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Å}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Ä}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Ö}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{A}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{B}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{C}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{D}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{E}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{F}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{G}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{H}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{I}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{J}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{K}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{L}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{M}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{N}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{O}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{P}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{Q}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{R}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{S}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{T}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{U}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{V}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{W}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{X}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{Y}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{Z}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{Å}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{Ä}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{Ö}"); Thread.Sleep(25);
+    Console.Clear();
+    Console.WriteLine($"{H}{E}{L}{L}{O}{Mellanrum}{W}{O}{R}{L}{D}{Utropstäcken}{Utropstäcken}{Utropstäcken}"); Thread.Sleep(25);
+    Console.Clear();
     Console.ReadLine();
 }
 Console.ReadLine();
